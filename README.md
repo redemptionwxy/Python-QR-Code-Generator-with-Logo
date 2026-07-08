@@ -75,7 +75,3 @@ For best scanning performance:
 * Keep the logo size below 25% of the QR code width.
 * Use high-contrast logos when possible.
 * Test the generated QR code on multiple devices before production use.
-
-## License
-
-This project is released under the MIT License.
